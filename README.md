@@ -16,4 +16,4 @@
 ![Basket analysis Screenshot5]https://github.com/Chinelonweke/market-basket-analysis/assets/162215623/cd88a517-2452-4adc-aefd-f7a9cac02e2e
 
 
-
+### Tool Used: SQL
